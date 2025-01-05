@@ -1,0 +1,29 @@
+[ {
+  "name" : "Cine",
+  "description" : "ver una peli",
+  "duration" : 50.0,
+  "cost" : 20.0,
+  "capacity" : 10,
+  "activityType" : "cinema"
+}, {
+  "name" : "Teatro",
+  "description" : "visita",
+  "duration" : 30.0,
+  "cost" : 10.0,
+  "capacity" : 15,
+  "activityType" : "theater"
+}, {
+  "name" : "algo",
+  "description" : "general",
+  "duration" : 50.0,
+  "cost" : 30.0,
+  "capacity" : 12,
+  "activityType" : "generic"
+}, {
+  "name" : "cine",
+  "description" : "ver algo",
+  "duration" : 59.0,
+  "cost" : 20.0,
+  "capacity" : 20,
+  "activityType" : "cinema"
+} ]

@@ -1,0 +1,126 @@
+[ {
+  "name" : "plan nuevo",
+  "date" : [ 2024, 11, 1, 12, 12 ],
+  "meetingPoint" : "madrid",
+  "capacity" : 8,
+  "rating" : 0,
+  "activities" : [ {
+    "activityType" : "cinema",
+    "name" : "Cine",
+    "description" : "ver una peli",
+    "duration" : 50,
+    "cost" : 20.0,
+    "capacity" : 10,
+    "activityType" : "cinema"
+  }, {
+    "activityType" : "generic",
+    "name" : "algo",
+    "description" : "general",
+    "duration" : 50,
+    "cost" : 30.0,
+    "capacity" : 12,
+    "activityType" : "generic"
+  }, {
+    "activityType" : "theater",
+    "name" : "Teatro",
+    "description" : "visita",
+    "duration" : 30,
+    "cost" : 10.0,
+    "capacity" : 15,
+    "activityType" : "theater"
+  } ],
+  "participants" : [ {
+    "age" : 20,
+    "mobile" : 123445567,
+    "password" : "1234",
+    "userName" : "Noé",
+    "m_Activity" : null,
+    "m_SocialPlan" : null
+  }, {
+    "age" : 69,
+    "mobile" : 333322221,
+    "password" : "1234",
+    "userName" : "dani",
+    "m_Activity" : null,
+    "m_SocialPlan" : null
+  } ],
+  "ratings" : { },
+  "owner" : {
+    "age" : 20,
+    "mobile" : 123456789,
+    "password" : "4455",
+    "userName" : "juan",
+    "m_Activity" : null,
+    "m_SocialPlan" : null
+  },
+  "numActivities" : 3,
+  "averageRating" : 0.0,
+  "startTime" : [ 2024, 11, 1, 12, 12 ],
+  "endTime" : [ 2024, 11, 1, 15, 2 ],
+  "numParticipants" : 2,
+  "planCost" : 60.0,
+  "vacancy" : 6
+}, {
+  "name" : "Plan prueba",
+  "date" : [ 2024, 10, 2, 2, 14 ],
+  "meetingPoint" : "parque",
+  "capacity" : 23,
+  "rating" : 0,
+  "activities" : [ ],
+  "participants" : [ ],
+  "ratings" : { },
+  "owner" : {
+    "age" : 20,
+    "mobile" : 123456789,
+    "password" : "4455",
+    "userName" : "juan",
+    "m_Activity" : null,
+    "m_SocialPlan" : null
+  },
+  "numActivities" : 0,
+  "averageRating" : 0.0,
+  "startTime" : [ 2024, 10, 2, 2, 14 ],
+  "endTime" : [ 2024, 10, 2, 2, 14 ],
+  "numParticipants" : 0,
+  "planCost" : 0.0,
+  "vacancy" : 23
+}, {
+  "name" : "Plan bueno",
+  "date" : [ 2024, 5, 15, 14, 0 ],
+  "meetingPoint" : "Teatro-Mdrid",
+  "capacity" : 9,
+  "rating" : 0,
+  "activities" : [ {
+    "activityType" : "cinema",
+    "name" : "Cine",
+    "description" : "ver una peli",
+    "duration" : 50,
+    "cost" : 20.0,
+    "capacity" : 10,
+    "activityType" : "cinema"
+  } ],
+  "participants" : [ {
+    "age" : 20,
+    "mobile" : 123456789,
+    "password" : "4455",
+    "userName" : "juan",
+    "m_Activity" : null,
+    "m_SocialPlan" : null
+  } ],
+  "ratings" : { },
+  "owner" : {
+    "age" : 20,
+    "mobile" : 123445567,
+    "password" : "1234",
+    "userName" : "Noé",
+    "m_Activity" : null,
+    "m_SocialPlan" : null
+  },
+  "numActivities" : 1,
+  "averageRating" : 0.0,
+  "startTime" : [ 2024, 5, 15, 14, 0 ],
+  "endTime" : [ 2024, 5, 15, 14, 50 ],
+  "numParticipants" : 1,
+  "planCost" : 20.0,
+  "vacancy" : 8
+} ]

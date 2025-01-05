@@ -1,0 +1,22 @@
+[ {
+  "age" : 20,
+  "mobile" : 123456789,
+  "password" : "4455",
+  "userName" : "juan",
+  "m_Activity" : null,
+  "m_SocialPlan" : null
+}, {
+  "age" : 69,
+  "mobile" : 333322221,
+  "password" : "1234",
+  "userName" : "dani",
+  "m_Activity" : null,
+  "m_SocialPlan" : null
+}, {
+  "age" : 20,
+  "mobile" : 123445567,
+  "password" : "1234",
+  "userName" : "Noé",
+  "m_Activity" : null,
+  "m_SocialPlan" : null
+} ]
